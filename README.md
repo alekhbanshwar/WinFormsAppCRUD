@@ -1,7 +1,7 @@
 The "Windows Forms App" (also known as WinForms) is a:
 
 Desktop application framework for Windows
-# Key Characteristics:
+🔍 Key Characteristics:
       Type: GUI-based desktop application
     
       Platform: Windows-only
