@@ -23,6 +23,7 @@ Desktop application framework for Windows
       Educational or test applications
 
 ✅ Advantages:
+      
       Quick to build simple UI apps
 
       Integrated well with Visual Studio
@@ -30,6 +31,7 @@ Desktop application framework for Windows
       Ideal for rapid prototyping
 
 ❌ Limitations:
+      
       Not cross-platform (only works on Windows)
 
       UI feels outdated compared to WPF or modern web apps
